@@ -8,11 +8,11 @@ Programing paradigm-> procedural,functional
 
 Functions :-
 
-->Save the result as word file using fstream library
+          ->Save the result as word file using fstream library
 
-->Calculate for more than one student at a time
+          ->Calculate for more than one student at a time
 
-->Display result after each subject entry
+          ->Display result after each subject entry
 
 Writen on-> Visulal basic 2010
 
@@ -29,11 +29,11 @@ Programing style->  Structural
 
 Features :-
 
-  ->register and save details of candidates and voters 
+          ->register and save details of candidates and voters 
   
-  ->display and save vote status report
+          ->display and save vote status report
   
-  ->password protection to add new candataites
+          ->password protection to add new candataites
   
   ->easy to navigate
   
