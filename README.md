@@ -1,6 +1,6 @@
 # My-Cpp-experience
 
-Title-> calculate cumulative GPA on a 4.0 scale
+## Title: calculate cumulative GPA on a 4.0 scale
 
 Programing language-> c++
 
@@ -16,3 +16,5 @@ Functions:-
 Writen on-> Visulal basic 2010
 
 Date-> 10/04/2014
+
+
