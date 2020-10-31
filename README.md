@@ -20,7 +20,7 @@ Date-> 10/04/2014
 ##
 
 ## Title: Vote app
-two different versions(Linked list(struct node) based & Array based)
+Two different versions(Linked list(struct node) based & Array based)
 
 Programing language-> c++(console)
 
