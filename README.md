@@ -6,7 +6,7 @@ Programing language-> c++
 
 Programing paradigm-> procedural,functional
 
-Functions :-
+Features :-
 
     ->Save the result as word file using fstream library
 
